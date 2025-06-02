@@ -10,8 +10,6 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
 - [Author](#author)
 
 ---
@@ -50,13 +48,5 @@ I practiced:
 - Creating responsive pages with max-width containers and fluid spacing
 - Styling using color tokens provided in the design spec
 
-#### Sample Code I’m Proud Of:
-
-```html
-<section>
-  <h2>Ingredients</h2>
-  <ul>
-    <li>2–3 large eggs</li>
-    <li>Salt, to taste</li>
-  </ul>
-</section>
+### Author
+Sanya Shresta Jathanna
