@@ -39,7 +39,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ---
 
-### What I Learned
+### What I Learnt
 
 I practiced:
 
