@@ -155,6 +155,10 @@ td:last-child {
   }
 
   .container {
-    padding: 1.25rem;
+    padding: 0;
+    background-color: transparent;
+    border-radius: 0;
+    box-shadow: none;
   }
 }
+
