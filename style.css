@@ -146,6 +146,12 @@ td:last-child {
 }
 
 @media (max-width: 480px) {
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+  }
+
   h1 {
     font-size: 1.5rem;
   }
@@ -155,10 +161,20 @@ td:last-child {
   }
 
   .container {
-    padding: 0;
+    padding: 1rem; /* slight padding for readability */
     background-color: white;
     border-radius: 0;
     box-shadow: none;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+  }
+
+  section, article {
+    margin-bottom: 1.5rem;
   }
 }
 
