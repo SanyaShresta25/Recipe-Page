@@ -22,7 +22,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ### Links
 
-- **Solution URL:** [https://github.com/yourusername/recipe-page](https://github.com/yourusername/recipe-page)
+- **Solution URL:** [https://github.com/SanyaShresta25/Recipe-Page](https://github.com/SanyaShresta25/Recipe-Page)
 - **Live Site URL:** [recipe-page-three-chi.vercel.app](recipe-page-three-chi.vercel.app)
 
 ---
@@ -39,7 +39,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ---
 
-### What I Learned
+### What I Learnt
 
 I practiced:
 
