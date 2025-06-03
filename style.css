@@ -114,67 +114,43 @@ td:last-child {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-
-@media (max-width: 768px) {
-  body {
-    padding: 1rem;
-  }
-
-  .container {
-    padding: 1.5rem;
-  }
-
-  h1 {
-    font-size: 1.75rem;
-  }
-
-  h2 {
-    font-size: 1.25rem;
-  }
-
-  h3 {
-    font-size: 1rem;
-  }
-
-  p, ul, ol, td {
-    font-size: 0.95rem;
-  }
-
-  table td {
-    padding: 0.5rem 0;
-  }
-}
-
 @media (max-width: 480px) {
+
   body {
-    margin: 0;
-    padding: 0;
-    background-color: white;
-  }
-
-  h1 {
-    font-size: 1.5rem;
-  }
-
-  h2 {
-    font-size: 1.125rem;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: white !important;
+    font-size: 15px !important;
   }
 
   .container {
-    padding: 1rem; /* slight padding for readability */
-    background-color: white;
-    border-radius: 0;
-    box-shadow: none;
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: white !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
   }
 
-  img {
-    width: 100%;
-    height: auto;
-    border-radius: 0;
+  .recipe-image {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 0 !important;
+    display: block;
+    margin: 0 !important; 
   }
 
-  section, article {
-    margin-bottom: 1.5rem;
+  
+  .content {
+    padding:1.5rem !important;
+  }
+
+  .prep-time,h1, p,h2, h3,table {
+    margin-bottom: 0.5rem !important;
+     margin-left: 1rem !important;
+     margin-right: 1rem;
+  }
+
+  ul, ol {
+    margin-left: 2rem !important;
   }
 }
-
